@@ -1,6 +1,6 @@
 # Installation
 
-Provide step-by-step instructions on how to install dependencies and set up the project.
+Step-by-step instructions on how to install dependencies and set up the project.
 # Clone the repository
 git clone https://github.com/LukasBrilla5/Gymbeam_work.git
 
