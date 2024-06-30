@@ -48,7 +48,6 @@ const CategoryPage: React.FC = () => {
   };
 
   useEffect(() => {
-    console.log(isMobile)
     const fetchProducts = async () => {
       try {
         const response = await axios.get(baseURL, {
